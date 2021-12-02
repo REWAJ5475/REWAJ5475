@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @REWAJ5475
+- 👋 Hi, I’m RewaJ Khatiwada
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning c#, Sql and JavaScripts.
 - 💞️ I’m looking to collaborate on getting jobs as entry level programmer. 
